@@ -1,4 +1,4 @@
-# confirmal-prediction-handson
+# calibration-prediction-handson
 
 🚀 Unlock the Full Potential of Business with Cutting-Edge ML Techniques! 🚀
 
