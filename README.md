@@ -24,9 +24,12 @@ Dataset Insights:
 Insurance Claims Dataset: Analyze customer demographics, policy details, financial footprints, and incident insights.
 
 💡 Advanced Techniques:
+
 Nested Hold-out Cross Validation: Ensure robust model validation for small datasets.
 Focal Loss: Address class imbalance more effectively than SMOTE.
 Optimizing Calibration: Enhance model accuracy and reliability with calibrated probabilities.
+
 📈 Enhancing Strategic Outcomes:
+
 Prioritizing Insights: Focus on claims with high expected losses for better ROI.
 Strategic Claim Selection: Use calibrated probabilities to guide investigations.
